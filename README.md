@@ -1,4 +1,4 @@
-# Understanding Multichannel Selling Ecosystems
+# Machine Learning for Personalized Multichannel Experience
 
 ## Project Overview
 
