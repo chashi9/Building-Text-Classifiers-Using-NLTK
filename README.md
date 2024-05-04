@@ -7,4 +7,4 @@
 | col 1 text | col 2 text |
 
 
-[Reach Out](mail to:amirkexception@gmail.com)
+[Reach Out](amirkexception@gmail.com)
