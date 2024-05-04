@@ -1,5 +1,10 @@
 # Machine Learning for Personalized Multichannel Experience
 
+# Table of Content                                        
+1. [My Topic Title](#Project-Overview)               
+2. [My topic subtitle](#my-topic-subtitle)
+
+
 ## Project Overview
 
 | col 1 | col 2 | col 3
@@ -10,6 +15,17 @@
 
 [Reach Out](https://www.youtube.com/)
 
-#Table of Content                                        
-1. [My Topic Title](#My-Topic-Title)               
-2. [My topic subtitle](#my-topic-subtitle)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
