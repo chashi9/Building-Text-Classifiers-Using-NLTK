@@ -4,7 +4,11 @@
 1. [My Topic Title](#Project-Overview)               
 2. [My topic subtitle](#my-topic-subtitle)
 
-
+<div align=”left”>
+<a href=”https://www.youtube.com/watch?v=eZs-KfVTm14”>
+<img src=”https://img.youtube.com/vi/eZs-KfVTm14/o.jpg” style=”width:100%;”>
+</a>
+</div>
 
 A
 
@@ -49,6 +53,7 @@ c
 
 
 
+
 ## Project Overview
 
 | col 1 | col 2 | col 3
@@ -62,11 +67,8 @@ c
 
 
 
-<div align=”left”>
-<a href=”https://www.youtube.com/watch?v=eZs-KfVTm14”>
-<img src=”https://img.youtube.com/vi/eZs-KfVTm14/0.jpg”style=”width:100%;”>
-</a>
-</div>
+
+
 
 
 
